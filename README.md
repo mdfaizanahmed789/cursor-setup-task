@@ -1,4 +1,5 @@
 # Cursor IDE Setup Task
+## Issues Faced
 
 ## Tools Installed
 
@@ -20,3 +21,12 @@ The Codex/OpenAI extension marketplace links opened in VS Code instead of Cursor
 Tried manual installation methods, but the extension did not appear inside Cursor.
 
 Claude Code integration was successfully installed and working inside Cursor terminal.
+
+### Git not recognized issue
+Installed Git and restarted Cursor.
+
+### Cursor startup JavaScript error
+Resolved by clearing Cursor cache and reinstalling Cursor.
+
+### Git author identity issue
+Configured Git username and email using git config.
